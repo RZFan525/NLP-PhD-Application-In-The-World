@@ -10,4 +10,4 @@ The information of NLP Ph.D application in the world.
 #### [UCSB NLP Group](http://nlp.cs.ucsb.edu/index.html)
 
 * **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/)
-* **English:** TOEFL(100); IELTS(7.5); GRE(optional)
+* **English:** TOEFL(100); IELTS(7.0); GRE(optional)
