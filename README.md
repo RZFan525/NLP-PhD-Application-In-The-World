@@ -11,3 +11,10 @@ The information of NLP Ph.D application in the world.
 
 * **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/)
 * **English:** TOEFL(100); IELTS(7.0); GRE(optional)
+
+### [Temple University](https://www.temple.edu/) (Philadelphia, Pennsylvania)
+
+#### [LanguageX](https://sites.google.com/site/yinwenpeng1987/languagex-lab)
+
+* **Faculty:** [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/home)
+* **English:** TOEFL(79); IELTS(6.5); Duolingo(110); GRE(310)
