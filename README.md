@@ -5,6 +5,12 @@ The information of NLP Ph.D application in the world.
 
 ## United States
 
+### [University of Southern California (USC)](https://www.usc.edu/) (Los Angeles, California)
+
+#### [The Intelligence and Knowledge Discovery (INK) Lab](https://inklab.usc.edu/index.html)
+* **Faculty:** [Xiang Ren](https://shanzhenren.github.io/)
+* **English:** TOEFL(100 & 20 in each section); IELTS(7.0); GRE(optional)
+
 ### [University of California, Santa Barbara (UCSB)](https://www.ucsb.edu/) (Santa Barbara, L.A., California)
 
 #### [UCSB NLP Group](http://nlp.cs.ucsb.edu/index.html)
