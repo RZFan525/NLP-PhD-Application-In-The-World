@@ -14,7 +14,8 @@ The information of NLP Ph.D application in the world.
 ### [University of California, Santa Barbara (UCSB)](https://www.ucsb.edu/) (Santa Barbara, L.A., California)
 
 #### [UCSB NLP Group](http://nlp.cs.ucsb.edu/index.html)
-* **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/)
+* **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/), [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/), [Kyle Mahowald
+](https://mahowak.github.io/), [Simon Todd](https://sjtodd.github.io/), [Shiyu Chang](https://code-terminator.github.io/)
 * **English:** TOEFL(100); IELTS(7.0); GRE(optional)
 
 ### [Temple University](https://www.temple.edu/) (Philadelphia, Pennsylvania)
