@@ -11,10 +11,10 @@ The information of NLP Ph.D application in the world.
 #### [AllenNLP](https://allenai.org/allennlp)
 * **Faculty:** [Noah Smith](https://nasmith.github.io/), [Hannaneh Hajishirzi](https://www.semanticscholar.org/author/Hannaneh-Hajishirzi/2548384)
 
-#### [xlab]
+#### xlab
 * **Faculty:** [Yejin Choi](https://homes.cs.washington.edu/~yejin/)
 
-#### [LZ's Group]
+#### LZ's Group
 * **Faculty:** [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)
 
 #### [TsvetShop](https://tsvetshop.github.io/)
