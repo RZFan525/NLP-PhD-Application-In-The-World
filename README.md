@@ -23,11 +23,15 @@ The information of NLP Ph.D application in the world.
 #### [Wangsheng's Group (AI for Medicine)](https://homes.cs.washington.edu/~swang/group.html)
 * **Faculty:** [Sheng Wang](https://homes.cs.washington.edu/~swang/)
 
+---
+
 ### [University of Southern California (USC)](https://www.usc.edu/) (Los Angeles, California)
 * **English:** TOEFL(100 & 20 in each section); IELTS(7.0); GRE(optional)
 
 #### [The Intelligence and Knowledge Discovery (INK) Lab](https://inklab.usc.edu/index.html)
 * **Faculty:** [Xiang Ren](https://shanzhenren.github.io/)
+
+---
 
 ### [University of California, Santa Barbara (UCSB)](https://www.ucsb.edu/) (Santa Barbara, L.A., California)
 * **English:** TOEFL(100); IELTS(7.0); GRE(optional)
@@ -35,6 +39,8 @@ The information of NLP Ph.D application in the world.
 #### [UCSB NLP Group](http://nlp.cs.ucsb.edu/index.html)
 * **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/), [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/), [Kyle Mahowald
 ](https://mahowak.github.io/), [Simon Todd](https://sjtodd.github.io/), [Shiyu Chang](https://code-terminator.github.io/)
+
+---
 
 ### [Temple University](https://www.temple.edu/) (Philadelphia, Pennsylvania)
 * **English:** TOEFL(79); IELTS(6.5); Duolingo(110); GRE(310)
@@ -49,3 +55,5 @@ The information of NLP Ph.D application in the world.
 
 #### MaJing's Group
 * **Faculty:** [Jing Ma](https://majingcuhk.github.io/)
+
+---
