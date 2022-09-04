@@ -20,6 +20,9 @@ The information of NLP Ph.D application in the world.
 #### [TsvetShop](https://tsvetshop.github.io/)
 * **Faculty:** [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/)
 
+#### [Wangsheng's Group (AI for Medicine)](https://homes.cs.washington.edu/~swang/group.html)
+* **Faculty:** [Sheng Wang](https://homes.cs.washington.edu/~swang/)
+
 ### [University of Southern California (USC)](https://www.usc.edu/) (Los Angeles, California)
 * **English:** TOEFL(100 & 20 in each section); IELTS(7.0); GRE(optional)
 
