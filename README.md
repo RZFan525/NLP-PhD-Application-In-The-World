@@ -31,6 +31,9 @@ The information of NLP Ph.D application in the world.
 #### [The Intelligence and Knowledge Discovery (INK) Lab](https://inklab.usc.edu/index.html)
 * **Faculty:** [Xiang Ren](https://shanzhenren.github.io/)
 
+#### ZhaoJieyu's Group
+* **Faculty:** [Jieyu Zhao](https://jyzhao.net/index.html)
+
 ---
 
 ### [University of California, Santa Barbara (UCSB)](https://www.ucsb.edu/) (Santa Barbara, L.A., California)
