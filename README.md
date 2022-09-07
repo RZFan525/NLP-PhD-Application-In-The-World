@@ -45,6 +45,14 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [Illinois Institute of Technology](https://www.iit.edu/) (Chicago, Illinois)
+* **English:** TOEFL(90); IELTS(6.5); GRE(optional)
+
+#### Shukai's Group
+* **Faculty:** [Kai Shu](http://www.cs.iit.edu/~kshu/)
+
+---
+
 ### [Temple University](https://www.temple.edu/) (Philadelphia, Pennsylvania)
 * **English:** TOEFL(79); IELTS(6.5); Duolingo(110); GRE(310)
 
