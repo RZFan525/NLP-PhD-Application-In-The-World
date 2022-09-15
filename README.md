@@ -71,3 +71,10 @@ The information of NLP Ph.D application in the world.
 * **Faculty:** [Jing Ma](https://majingcuhk.github.io/)
 
 ---
+
+## Singapore
+### [National University of Singapore (NUS)](https://www.nus.edu.sg/)
+* **English:** TOEFL(90); IELTS(6.0); GRE(320+3.5)
+
+#### XieQizhe's Group
+* **Faculty:** [Qizhe Xie](https://www.qizhexie.com/)
