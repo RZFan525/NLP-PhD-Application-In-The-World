@@ -48,7 +48,7 @@ The information of NLP Ph.D application in the world.
 
 ---
 
-### [University of California，Santa Cruz](https://www.ucsc.edu/) (Santa Cruz, California)
+### [University of California，Santa Cruz (UCSC)](https://www.ucsc.edu/) (Santa Cruz, California)
 * **English:** TOEFL(100); IELTS(7.0); GRE(optional)
 
 #### [ERIC Lab](http://eric-lab.soe.ucsc.edu/home)
