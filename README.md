@@ -56,6 +56,14 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [University of Texas at Dallas (UTD)](https://www.utdallas.edu/) (Richardson, Texas)
+* **English:** TOEFL(80); IELTS(6.5); Duolingo(105); GRE(optional)
+
+#### [Human Language Technology Research Institute (HLT)](https://www.hlt.utdallas.edu/)
+* **Faculty:** [Xinya Du](https://xinyadu.github.io/index.html)
+
+---
+
 ### [Illinois Institute of Technology](https://www.iit.edu/) (Chicago, Illinois)
 * **English:** TOEFL(90); IELTS(6.5); GRE(optional)
 
