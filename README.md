@@ -56,8 +56,16 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [University of California, Riverside (UCR)](https://www.ucr.edu/) (Riverside, California)
+* **English:** TOEFL(80); IELTS(7.0); GRE(required)
+
+#### [DongYue's Group]
+* **Faculty:** [Yue Dong](https://yuedongcs.github.io/)
+
+---
+
 ### [University of Texas at Dallas (UTD)](https://www.utdallas.edu/) (Richardson, Texas)
-* **English:** TOEFL(80); IELTS(6.5); Duolingo(105); GRE(optional)
+* **English:** TOEFL(80); IELTS(6.5); Duolingo(105); GRE(required)
 
 #### [Human Language Technology Research Institute (HLT)](https://www.hlt.utdallas.edu/)
 * **Faculty:** [Xinya Du](https://xinyadu.github.io/index.html)
