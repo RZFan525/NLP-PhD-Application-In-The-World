@@ -3,6 +3,8 @@ The information of NLP Ph.D application in the world.
 
 ![](https://img.shields.io/badge/build-welcome%20to%20contribute!-blue) [![GitHub stars](https://img.shields.io/github/stars/RZFan525/NLP-PhD-Application-In-The-World)](https://github.com/RZFan525/NLP-PhD-Application-In-The-World/stargazers)
 
+[Towards applying to CS Ph.D. programs](https://blog-ruipan-xyz.translate.goog/blog/towards-applying-to-cs-ph.d.-programs?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN)
+
 ## United States
 
 ### [University of Washington (UW)](https://www.washington.edu/) (Seattle, Washington)
