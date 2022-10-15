@@ -50,10 +50,10 @@ The information of NLP Ph.D application in the world.
 
 ---
 
-### [University of Illinois at Chicago (UIC))](https://www.uic.edu/) (Chicago, Illinois)
+### [University of Illinois at Chicago (UIC)](https://www.uic.edu/) (Chicago, Illinois)
 * **English:** TOEFL(don't known); IELTS(don't known); GRE(optional)
 
-#### [Cornelia Caragea‘s Group]
+#### Cornelia Caragea‘s Group
 * **Faculty:** [Cornelia Caragea](https://www.cs.uic.edu/~cornelia/)
 
 ---
@@ -69,7 +69,7 @@ The information of NLP Ph.D application in the world.
 ### [University of California, Riverside (UCR)](https://www.ucr.edu/) (Riverside, California)
 * **English:** TOEFL(80); IELTS(7.0); GRE(required)
 
-#### [DongYue's Group]
+#### DongYue's Group
 * **Faculty:** [Yue Dong](https://yuedongcs.github.io/)
 
 ---
