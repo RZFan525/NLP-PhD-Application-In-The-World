@@ -82,6 +82,14 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [George Mason University (GMU)](https://www.gmu.edu/) (Fairfax, Virginia)
+* **English:** TOEFL(88 & 20 in each section); IELTS(7.0 & 6.5 in each section); Duolingo(120); GRE(optional)
+
+#### [George Mason Natural Language Processing Group (GMNLP)](https://nlp.cs.gmu.edu/)
+* **Faculty:** [Ziyu Yao](https://ziyuyao.org/)
+
+---
+
 ### [Illinois Institute of Technology](https://www.iit.edu/) (Chicago, Illinois)
 * **English:** TOEFL(90); IELTS(6.5); GRE(optional)
 
