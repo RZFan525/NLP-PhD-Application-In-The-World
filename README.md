@@ -112,6 +112,12 @@ The information of NLP Ph.D application in the world.
 #### MaJing's Group
 * **Faculty:** [Jing Ma](https://majingcuhk.github.io/)
 
+### [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/zh-hans)
+* **English:** TOEFL(79); IELTS(6.5)
+
+#### BenyouWang's Group
+* **Faculty:** [Benyou Wang](https://wabyking.github.io/old.html)
+
 ---
 
 ## Singapore
