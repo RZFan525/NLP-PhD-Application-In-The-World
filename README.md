@@ -7,6 +7,33 @@ The information of NLP Ph.D application in the world.
 
 ## United States
 
+---
+
+### [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) (Cambridge, Massachusetts)
+* **English:** TOEFL(90); GRE(optional)
+
+---
+
+### [Stanford University (Stanford)](https://www.stanford.edu/) (Stanford, California)
+* **English:** TOEFL(100); GRE(optional)
+
+---
+
+### [Carnegie Mellon University (CMU)](https://www.cmu.edu/) (Pittsburgh, Pennsylvania)
+* **English:** TOEFL(84); IELTS(7.0); Duolingo(105); GRE(optional)
+
+---
+
+### [University of California, Berkeley (UCB)](https://www.berkeley.edu/) (Berkeley, California)
+* **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
+### [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) (Champaign ,Illinois)
+* **English:** TOEFL(S24); IELTS(S8.0); GRE(optional)
+
+---
+
 ### [University of Washington (UW)](https://www.washington.edu/) (Seattle, Washington)
 * **English:** TOEFL(92); IELTS(7.0); Duolingo(120); GRE(optional)
 
@@ -24,6 +51,22 @@ The information of NLP Ph.D application in the world.
 
 #### [Wangsheng's Group (AI for Medicine)](https://homes.cs.washington.edu/~swang/group.html)
 * **Faculty:** [Sheng Wang](https://homes.cs.washington.edu/~swang/)
+
+---
+
+### [Cornell University (Cornell)](https://www.cornell.edu/) (Ithaca, New York)
+* **English:** TOEFL(S22, R20, L15, W20); IELTS(7.0); GRE(optional)
+
+---
+
+### [University of Pennsylvania (Upenn)](https://www.upenn.edu/) (Philadelphia, Pennsylvania)
+* **English:** ?
+
+
+---
+
+### [Princeton University (Princeton)](https://www.princeton.edu/) (Princeton, New Jersey)
+* **English:** ?
 
 ---
 
