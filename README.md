@@ -20,7 +20,7 @@ The information of NLP Ph.D application in the world.
 ---
 
 ### [Carnegie Mellon University (CMU)](https://www.cmu.edu/) (Pittsburgh, Pennsylvania)
-* **English:** TOEFL(84); IELTS(7.0); Duolingo(105); GRE(optional)
+* **English:** TOEFL(100); IELTS(7.0); Duolingo(105); GRE(optional)
 
 ---
 
