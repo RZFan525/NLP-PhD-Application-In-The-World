@@ -70,6 +70,31 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [University of Michigan (Umich)](https://umich.edu/) (Ann Arbor, Michigan)
+* **English:** TOEFL(84); IELTS(6.5); GRE(optional)
+
+---
+
+### [Georgia Institute of Technology (Gatech)](https://www.gatech.edu/) (Atlanta, Georgia)
+* **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
+### [Johns Hopkins University (JHU)](https://www.jhu.edu/) (Baltimore, Maryland)
+* **English:** TOEFL(100); IELTS(7.0); GRE(optional)
+
+---
+
+### [Columbia University (Columbia)](https://www.columbia.edu/) (New York, New York)
+* **English:** TOEFL(101); IELTS(7.0); GRE(optional)
+
+---
+
+### [University of Chicago (Uchicago)](https://www.uchicago.edu/) (Chicago, Illinois)
+* **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
 ### [University of Southern California (USC)](https://www.usc.edu/) (Los Angeles, California)
 * **English:** TOEFL(100 & 20 in each section); IELTS(7.0); GRE(optional)
 
