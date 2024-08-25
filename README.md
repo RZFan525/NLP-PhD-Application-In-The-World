@@ -90,8 +90,23 @@ The information of NLP Ph.D application in the world.
 
 ---
 
-### [University of Chicago (Uchicago)](https://www.uchicago.edu/) (Chicago, Illinois)
+### [University of Chicago (UChicago)](https://www.uchicago.edu/) (Chicago, Illinois)
 * **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
+### [Harvard University (Harvard)](https://www.harvard.edu/) (Cambridge, Massachusetts Hall)
+* **English:** TOEFL(80); IELTS(6.5); GRE(optional)
+
+---
+
+### [University of California San Diego (UCSD)](https://ucsd.edu/) (San Diego, California)
+* **English:** TOEFL(85); IELTS(7.0); GRE(optional)
+
+---
+
+### [University of California Los Angeles (UCLA)](https://www.ucla.edu/) (Los Angeles, California)
+* **English:** TOEFL(87 [W25, S24, R21, L17]); IELTS(7.0); GRE(optional)
 
 ---
 
