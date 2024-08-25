@@ -5,6 +5,9 @@ The information of NLP Ph.D application in the world.
 
 [Towards applying to CS Ph.D. programs](https://blog-ruipan-xyz.translate.goog/blog/towards-applying-to-cs-ph.d.-programs?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN)
 
+[CS PhD Statements of Purpose](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
+
+[Computer Science Professor Profile](https://drafty.cs.brown.edu/csprofessors?src=csopendata)
 ## United States
 
 ---
