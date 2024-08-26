@@ -113,6 +113,16 @@ The information of NLP Ph.D application in the world.
 
 ---
 
+### [California Institute of Technology (Caltech)](https://www.caltech.edu/) (Pasadena, California)
+* **English:** ?
+
+---
+
+### [Yale University (Yale)](https://www.yale.edu/) (New Haven, Connecticut)
+* **English:** TOEFL(S25); IELTS(S7.5); GRE(optional)
+
+---
+
 ### [University of Southern California (USC)](https://www.usc.edu/) (Los Angeles, California)
 * **English:** TOEFL(100 & 20 in each section); IELTS(7.0); GRE(optional)
 
@@ -133,6 +143,62 @@ The information of NLP Ph.D application in the world.
 #### [UCSB NLP Group](http://nlp.cs.ucsb.edu/index.html)
 * **Faculty:** [William Wang](https://sites.cs.ucsb.edu/~william/), [Lei Li](https://sites.cs.ucsb.edu/~lilei/), [Xifeng Yan](https://sites.cs.ucsb.edu/~xyan/), [Kyle Mahowald
 ](https://mahowak.github.io/), [Simon Todd](https://sjtodd.github.io/), [Shiyu Chang](https://code-terminator.github.io/)
+
+---
+
+### [New York University (NYU)](https://www.nyu.edu/) (New York, New York)
+* **English:** TOEFL(100); IELTS(7.0); GRE(optional)
+
+
+---
+
+### [University of Maryland, College Park (UMD)](https://umd.edu/) (College Park, Maryland)
+* **English:** TOEFL(96 [S22, L24, R26, W24]); IELTS(7.0 [S6.5, L7, R7, W7]); GRE(optional)
+
+---
+
+### [The University of Texas at Austin (UT Austin)](https://www.utexas.edu/) (Austin, Texas)
+* **English:** TOEFL(79); IELTS(6.5); GRE(optional)
+
+---
+
+### [University of Wisconsin–Madison (Wisc)](https://www.wisc.edu/) (Madison, Wisconsin)
+* **English:** TOEFL(92); IELTS(7.0); GRE(optional)
+
+---
+
+### [Purdue University (Purdue)](https://www.purdue.edu/) (West Lafayette, Indiana)
+* **English:** TOEFL(100 & 22 in each section); IELTS(7.5 & 7.0 in each section); GRE(optional)
+
+---
+
+### [Brown University (Brown)](https://www.brown.edu/) (Providence, Rhode Island)
+* **English:** TOEFL(105); IELTS(7.0); GRE(optional)
+
+---
+
+### [Duke University (Duke)](https://duke.edu/) (Durham, North Carolina)
+* **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
+### [Northeastern University (Northeastern)](https://www.northeastern.edu/) (Boston, Massachusetts)
+* **English:** TOEFL(100); IELTS(7.5); GRE(optional)
+
+---
+
+### [Northwestern University (Northwestern)](https://www.northwestern.edu/) (Evanston, Illinois)
+* **English:** TOEFL(90); IELTS(7.0); GRE(optional)
+
+---
+
+### [University of Massachusetts Amherst (UMass)](https://www.umass.edu/) (Amherst, Massachusetts)
+* **English:** TOEFL(80); IELTS(6.5); GRE(optional)
+
+---
+
+### [The Ohio State University (OSU)](https://www.osu.edu/) (Columbus, Ohio)
+* **English:** TOEFL(79); IELTS(7.0); GRE(optional)
 
 ---
 
