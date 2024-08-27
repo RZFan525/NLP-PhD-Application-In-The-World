@@ -13,7 +13,7 @@ The information of NLP Ph.D application in the world.
 ---
 
 ### [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) (Cambridge, Massachusetts)
-* **English:** TOEFL(90); GRE(optional)
+* **English:** TOEFL(100); IELTS(7.0); GRE(optional)
 
 ---
 
